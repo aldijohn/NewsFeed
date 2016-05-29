@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+
+    <string-array name="categories">
+        <item>Sports</item>
+        <item>Politics</item>
+        <item>Arts</item>
+        <item>Science</item>
+        <item>Travelling</item>
+        <item>Fashion</item>
+        <item>Cooking</item>
+    </string-array>
+
+</resources>
